@@ -270,3 +270,43 @@ button {
     margin-bottom: -60px;
 }
 @media screen and  (max-width: 375px){
+.container {
+	max-width: 375px;
+	width:100%;
+	margin: 0 auto; 
+}
+.tex3{
+	margin-left: 0px;
+}
+.tex2 {
+	margin-left: 0px;
+}
+.tex1 {
+	margin-left: 0px;
+}
+.flex-mobi{
+	display: block;
+}
+.img2{
+    height: auto;
+    margin-left: 0px;
+}
+.img3 {
+    height: auto;
+    margin-right: 0px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
