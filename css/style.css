@@ -278,13 +278,13 @@ button {
 .img1{
 	height: auto;
 }
-.tex3{
+.tex3, .te1 {
 	margin-left: 0px;
 }
-.tex2 {
+.tex2{
 	margin-left: 0px;
 }
-.tex1 {
+.tex1{
 	margin-left: 0px;
 }
 .flex-mobi{
@@ -297,14 +297,58 @@ button {
 .img3 {
     height: auto;
     margin-right: 0px;
-
-
-
-
-
-
-
-
+}
+.t1{
+	display: block;
+}
+.te2 {
+	margin-left: 0px;
+	width: 375px;
+}
+.te3{
+	margin-left: 0px;
+	width: 375px;
+}
+.te22 {
+	width: 375px;
+	}
+.te33{
+	width: 375px;
+}
+.se1, .ke1{
+	margin-left: 0px;
+}
+.se2, .ke2{
+	margin-left: 0px;
+}
+.se3, .ke3, .ke33 {
+    width: 375px;
+    margin-left: 0px;
+}
+.input-box input {
+    width: 375px;
+}
+.s1{
+	display: block;
+}
+.se33 {
+	width: 375px;
+}
+.k1 {
+	display: block;
+}
+.foot {
+	margin-top: 15px;
+    padding-bottom: 30px;
+}
+.foot1{
+    margin-left: 125px;
+}
+.navbar-ul {
+	display: block;
+}
+button {
+	margin-left: 120px;
 
 
 
