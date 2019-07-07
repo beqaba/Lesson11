@@ -1,7 +1,7 @@
 .container {
 	max-width: 1170px;
 	width:100%;
-	margin: 0 auto;
+	margin: 0 auto; 
 }
 .flex{
 	display: flex;
@@ -160,4 +160,105 @@
 	margin-top: 35px;
 	width: 420px;
 	line-height: 1.6;
+}
+.sect{
+	background-color: #f0f0f0;
+}
+.conta{
+	margin: 0 auto;
+	background-color: #f0f0f0;
+	padding: 80px 90px;
+	display: flex;
+	justify-content: center;
+    margin-top: 90px;	
+}
+.input-box {
+	display: flex;
+	flex-direction: column;
+}
+.input-box  input{
+	width: 400px;
+	padding: 10px 20px;
+	background: none;
+	border: none;
+    border-bottom: 2px solid
+   
+}
+label {
+	margin-left: 30px;
+	margin-bottom: 30px;
+}
+.in2{
+	font-size: 30px;
+	text-align: center;
+	padding-bottom: 85px;
+}
+.k1{
+	display: flex;
+	justify-content: space-between;
+	margin-right: 128px;
+}
+.ke1{
+	font-size: 14px;
+	background-color: pink;
+	margin-left: 80px;
+	margin-top: 30px;
+	width: 75px;
+}
+.ke2{
+	font-size: 30px;
+	background-color: pink;
+	margin-left: 80px;
+	margin-top: 20px;
+	width: 295px;
+}
+.ke3{
+	font-size: 14px;
+	background-color: pink;
+	margin-left: 80px;
+	margin-top: 35px;
+	width: 420px;
+	line-height: 1.6;
+}
+.ke11{
+	font-size: 14px;
+	background-color: pink;
+	margin-top: 30px;
+	width: 75px;
+	
+}
+.ke22{
+	font-size: 30px;
+	background-color: pink;
+	margin-top: 20px;
+	width: 210px;
+	
+}
+.ke33{
+	font-size: 14px;
+	background-color: pink;
+	margin-top: 35px;
+	width: 420px;
+	line-height: 1.6;
+}
+button {
+	background: none;
+    background-color: pink;
+    padding: 40px 60px;
+    margin-top: 150px;
+    margin-left: 484px;
+    margin-bottom: 100px
+}
+.foot{
+	margin: 30px;
+	margin-left: 15%;
+}
+.foot1{
+	margin: 30px;
+    margin-top: -45px;
+    margin-left: 70%;
+}
+.fot{
+	background-color: #626262;
+	padding: 5px;
 }
