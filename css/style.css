@@ -6,6 +6,7 @@
 .flex{
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 }
 .flex-mobi{
 	display: flex;
@@ -262,3 +263,10 @@ button {
 	background-color: #626262;
 	padding: 5px;
 }
+.clik{
+	height: 17px;
+	width: 32px;
+	margin-left: 310px;
+    margin-bottom: -60px;
+}
+@media screen and  (max-width: 375px){
